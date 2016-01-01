@@ -1,4 +1,4 @@
-# Search Engine and Information Retrieval
+# Search Engines Information Retrieval in Practice
 
 ## Course Overview
 
