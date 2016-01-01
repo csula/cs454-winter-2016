@@ -1,5 +1,7 @@
 # Search Engine and Information Retrieval
 
+[![Join the chat at https://gitter.im/csula/cs454-winter-2016](https://badges.gitter.im/csula/cs454-winter-2016.svg)](https://gitter.im/csula/cs454-winter-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to CS454 Search Engine and Information Retrieval. Please check the `README.md` often for news and announcements.
 
 ## Quick Links
