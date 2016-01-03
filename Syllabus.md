@@ -70,7 +70,6 @@ Cheating on assignments and exams will not be tolerated. All parties involved wi
 
 * Lecture 7 (2/20/2016): Query Interfaces and Retrieval Models [John]
   * Reading Assignment: "Hive: a warehousing solution over a map-reduce framework" by A. Thusoo and "Building a distributed full-text index for the web" by S. Melink, S. Raghavan, B.Yang, and H. Garcia-Molina. 
-  * Reading Assignment: 
 
 * Lecture 8 (2/27/2016): Building a complete search engine using open source software [John]
   * Reading Assignment: TBD

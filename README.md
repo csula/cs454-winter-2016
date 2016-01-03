@@ -14,4 +14,4 @@ This course will cover web search engines and their foundation, principles, and 
 
 ## Announcements
 
-Welcome to CS454 Search Engine and Information Retrieval. Please check the `README.md` often for news and announcements.
+Please check the `README.md` (this file) often for news and announcements.
