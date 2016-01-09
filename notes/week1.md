@@ -71,7 +71,7 @@ Gradle run time in Eclipse.
 5. Select the top-level node 'Extensions / Gradle Integration'.
 6. Click "Next". This may take a while.
 7. Review the list of software that will be installed. Click "Next" again.
-8. Review and accept licence agreements and Click "Finish".
+8. Review and accept license agreements and Click "Finish".
 
 **Instructions to run Gradle tasks in Eclipse**
 

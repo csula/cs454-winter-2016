@@ -23,4 +23,6 @@ task hello(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
 
     main = 'edu.csula.cs454.example.HelloWorld'
+
+    args ("$arg1", "$arg2")
 }
