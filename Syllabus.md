@@ -1,5 +1,11 @@
 # Search Engines Information Retrieval in Practice
 
+The number of web pages on the World Wide Web has exceeded its billionth page marker.  The ability to retrieve relevant information is an integral and vibrant requirement for all net users.  On the surface, the simplicity and richness of search services provided by web search engines search as Yahoo and Google belies the wealth of underlying information architecture, organization, and archive and retrieval technology.
+
+The three fundamental building blocks to information retrieval and search engines are: (1) identifying targets or search pages, (2) extracting relevant metadata information from these pages, and (3) archive and organize these metadata information for rapid retrieval.  Information architects and engineers are wrought with engineering challenges to achieve these goals.  These challenges include problems relating to scalability, reliability, robustness, and unconstrained search domains.  While many of these challenges have been met one way or another and are presented in the course readings, many remain open-ended research topics.
+
+This course will cover web search engines and their foundation, principles, and elements. The class will include lectures on topics relating specifically to search engine technologies and on supplemental paper reading assignments.
+
 ## Course Overview
 
 - **Objective** Students will engage in a team or individual project to leverage the search engine techniques learned during the course (e.g., ranking, crawling, content analysis and detection, and query models).
