@@ -5,6 +5,10 @@
 We are combining all four sessions of Search Engine class all together to 9:10 to 13:00 session at
 ASCB 132 (big lecturer hall pass Bios department).
 
+Map:
+
+![class map](class-map.png)
+
 # Objectives
 
 * [Course logistics](../Syllabus.md)
