@@ -24,5 +24,5 @@ task hello(type: JavaExec) {
 
     main = 'edu.csula.cs454.example.HelloWorld'
 
-    args ("$arg1", "$arg2")
+    args ("Hello world", "Hello Search engine")
 }
