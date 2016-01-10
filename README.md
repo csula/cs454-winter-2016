@@ -26,4 +26,7 @@ Welcome to the first day of class.  Here are a few questions students might have
 
 * What is expected for next week's class?  Please make sure that you can get gradle and the development environment fully working.
 
-Please register your team before the end of Week 2 [here](http://goo.gl/forms/5m8DoQySO5).
+* Is the text book required for the course?  It does not contain required readings (we will read papers instead).  However, it will serve as a good reference for materials we cover in class.  Ultimately, it is up to you to decide.
+
+
+Finally, please register your team before the end of Week 2 [here](http://goo.gl/forms/5m8DoQySO5).
