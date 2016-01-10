@@ -51,10 +51,9 @@ Cheating on assignments and exams will not be tolerated. All parties involved wi
 ## Course Schedule
 
 * Lecture 1 (1/9/2016): [Introduction to information retrieval, source code management (github), software and applications (Java, eclipse, and maven)](notes/week1.md) [Eric]
-  * Reading Assignment: "The anatomy of a large-scale hypertextual Web search engine" by S. Brin and L. Page.  
 
 * Lecture 2 (1/16/2016): Architecture of a search engine by building a simple search engine in practice. [John]
-  * Reading Assignment: TBD
+  * Reading Assignment: "The anatomy of a large-scale hypertextual Web search engine" by S. Brin and L. Page.  
 
 * Lecture 3 (1/23/2016): Crawls and feeds [John]
   * Reading Assignment: "Crawling the Hidden Web" by S. Raghavan and H. Garcia-Molina.
