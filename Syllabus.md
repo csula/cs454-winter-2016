@@ -8,8 +8,8 @@
 
 ## Logistics
 
-- **Instructors** John J. Tran and Eric Liao
-- **Office Hours** TBD
+- **Instructors** John Tran and Eric Liao
+- **Office Hours** After class and online via [gitter](https://gitter.im/csula/cs454-winter-2016)
 - **Text Book** _Search Engines: Information Retrieval in Practice_ by Bruce Croft, Donald Metzler, and Trevor Strohman. ISBN: 978-0136072249.  Can be obtained from [Amazon](http://www.amazon.com/Search-Engines-Information-Retrieval-Practice/dp/0136072240) or the CSULA book store.
 - **Course Slides** The lectures will follow very closely to the [Text Book Slides](http://www.search-engines-book.com/slides/)
 
