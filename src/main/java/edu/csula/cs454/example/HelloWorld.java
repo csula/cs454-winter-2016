@@ -1,5 +1,15 @@
 package edu.csula.cs454.example;
 
+/**
+ * Simple hello world program.
+ *
+ * <p>
+ *     You can execute this program along with task defined in build.gradle by
+ *     `gradle hello -Parguments="Hello Search Engine 101" which then will pass
+ *     "Hello", "Search", "Engine", "101" as array of arguments to this main
+ *     method.
+ * </p>
+ */
 public class HelloWorld {
     private static String name = "Search Engine";
 
