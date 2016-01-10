@@ -89,6 +89,11 @@ to run the Gradle tasks (e.g. hello)
 2. And then you can right click on the project to run Gradle tasks
 3. You can now run your project by right click on the project `Run > Gradle build ... (second Gradle build one)` and provide `hello` in the task
 
+### Recommended readings for Gradle
+
+* http://gradle.org/getting-started-gradle-java/
+* http://www.vogella.com/tutorials/Gradle/article.html
+
 ## Github
 
 * [Sign up Github account](https://github.com/) if you don't already have one
@@ -104,3 +109,8 @@ Github/git in order to commit & push your code for code submission.
 * https://help.github.com/articles/good-resources-for-learning-git-and-github/
 * [Github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [My Github Tutorial from CS-460](https://github.com/csula/cs460-fall-2015/blob/master/documents/misc/github-tutorial.md)
+
+### Recommended practices
+
+This is not a homework. But I suggest you to start thinking about how you can create
+your own main cli based class to do file traversal and information parsing by files

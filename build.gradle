@@ -31,3 +31,9 @@ task hello(type: JavaExec) {
         args arguments.split(" ")
     }
 }
+
+task readFile(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+
+    main = 'edu.csula.cs454.example.FileRead'
+}
