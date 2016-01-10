@@ -57,10 +57,20 @@ Install via `brew install gradle` assuming you have `brew` installed.
 
 Please run `gradle -v` anywhere from terminal. You should see Gradle version as 2.10.
 
+## Wrap Up Java Review Exercise
+
+Download the course repository, run `gradle hello` after you are done. You should see
+`Hello Search Engine` as the console output.
+
+After project is working with `gradle hello` above, please run `gradle eclipse` to convert
+this project to Eclipse project. Then you can import this folder into Eclipse
+(assuming you are using Eclipse) by `File >> Import >> General > Existing project into workspace`
+
 ### Eclipse Gradle plugins
 
-For you Eclipse users out there, you can follow the instructions below to set up the
-Gradle run time in Eclipse.
+With above being done, you can start modifying your project in Eclipse. However, you are
+still not able to run the Gradle tasks. Therefore, you will also need this *Eclipse Gradle Plugin*
+to run the Gradle tasks (e.g. hello)
 
 **Instructions to install Gradle plugins in Eclipse**
 
@@ -77,6 +87,7 @@ Gradle run time in Eclipse.
 
 1. Right click on the project and click on `Configure` >> `Convert project to Gradle project`.
 2. And then you can right click on the project to run Gradle tasks
+3. You can now run your project by right click on the project `Run > Gradle build ... (second Gradle build one)` and provide `hello` in the task
 
 ## Github
 
@@ -93,8 +104,3 @@ Github/git in order to commit & push your code for code submission.
 * https://help.github.com/articles/good-resources-for-learning-git-and-github/
 * [Github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [My Github Tutorial from CS-460](https://github.com/csula/cs460-fall-2015/blob/master/documents/misc/github-tutorial.md)
-
-## Wrap Up Java Review Exercise
-
-Download the course repository, run `gradle hello` after you are done. You should see
-`Hello Search Engine` as the console output.

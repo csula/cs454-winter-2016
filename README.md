@@ -15,3 +15,5 @@ This course will cover web search engines and their foundation, principles, and 
 ## Announcements
 
 Please check the `README.md` (this file) often for news and announcements.
+
+* Please register your team before the end of Week 2 [here](http://goo.gl/forms/5m8DoQySO5).
