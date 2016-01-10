@@ -8,6 +8,10 @@ The three fundamental building blocks to information retrieval and search engine
 
 This course will cover web search engines and their foundation, principles, and elements. The class will include lectures on topics relating specifically to search engine technologies and on supplemental paper reading assignments.
 
+## Quick Start of Project
+
+This is a Gradle Java project. You may start this project by `gradle`
+
 ## Quick Links
 
 * Lecture 1: [Syllabus](Syllabus.md)

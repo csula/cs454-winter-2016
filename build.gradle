@@ -19,10 +19,15 @@ test {
     testLogging.showStandardStreams = true
 }
 
+defaultTasks 'clean', 'hello'
+
 task hello(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
 
     main = 'edu.csula.cs454.example.HelloWorld'
 
-    args ("Hello world", "Hello Search engine")
+    // simple defensive programming to define optional arguments
+    if (project.hasProperty("arguments")) {
+        args arguments.split(" ")
+    }
 }
