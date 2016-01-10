@@ -9,6 +9,8 @@ package edu.csula.cs454.example;
  *     "Hello", "Search", "Engine", "101" as array of arguments to this main
  *     method.
  * </p>
+ *
+ * TODO: can you modify this class to do something more?
  */
 public class HelloWorld {
     private static String name = "Search Engine";

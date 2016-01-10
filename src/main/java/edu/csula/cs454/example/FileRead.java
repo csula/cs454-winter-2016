@@ -11,6 +11,8 @@ import java.util.stream.Stream;
 
 /**
  * A simple file read example with simple file count
+ *
+ * TODO: can you do a word count for this file?
  */
 public class FileRead {
     public static void main(String[] args) {
