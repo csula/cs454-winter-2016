@@ -14,18 +14,16 @@ This course will cover web search engines and their foundation, principles, and 
 
 This is a Gradle Java project. You may start this project by `gradle`
 
-## Quick Links
-
-* Lecture 1: [Syllabus](Syllabus.md)
-
 ## Announcements
 
-** 1/9/2016 **
+### 1/9/2016 
 
 Welcome to the first day of class.  Here are a few questions students might have about the course:
 
 * What is the meeting time and location?  We will meet every Saturday from  9:10 to 13:00 session at ASCB 132.
 
 * Will there be a quiz next week?  No, the first quiz will be given out the third week of class.
+
+* What is expected for next week's class?  Please make sure that you can get gradle and the development environment fully working.
 
 Please register your team before the end of Week 2 [here](http://goo.gl/forms/5m8DoQySO5).
