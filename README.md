@@ -22,5 +22,10 @@ Welcome to the first day of class.  Here are a few questions students might have
 
 * Is the text book required for the course?  It does not contain required readings (we will read papers instead).  However, it will serve as a good reference for materials we cover in class.  Ultimately, it is up to you to decide.
 
-
 Finally, please register your team before the end of Week 2 [here](http://goo.gl/forms/5m8DoQySO5).
+
+### 1/20/2016
+
+* Due to the WEP exam for a few students, our quiz this week will be at the end of class (this week only).
+
+* The [ungraded assignment](notes/homework-ungraded.md) is up.  Enjoy!
