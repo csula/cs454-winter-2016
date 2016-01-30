@@ -17,6 +17,8 @@
 
 * Brin, S. and L. Page. "The anatomy of a large-scale hypertextual Web search engine"
 
-* **Search Engines: Information Retrieval in Practice** [Slides](http://www.search-engines-book.com/slides/) Set 1 ("Search Engines and Information Retrieval") and Set 2 ("Architecture of a Search Engine").
+* **Search Engines: Information Retrieval in Practice** [Slides](http://www.search-engines-book.com/slides/) 
+  * Set 1 ("Search Engines and Information Retrieval") 
+  * Set 2 ("Architecture of a Search Engine")
 
 
