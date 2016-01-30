@@ -57,30 +57,12 @@ Cheating on assignments and exams will not be tolerated. All parties involved wi
 ## Course Schedule
 
 * Lecture 1 (1/9/2016): [Introduction to information retrieval, source code management (github), software and applications (Java, eclipse, and maven)](notes/week1.md) [Eric]
-
-* Lecture 2 (1/16/2016): Architecture of a search engine by building a simple search engine in practice. [John]
-  * Reading Assignment: "The anatomy of a large-scale hypertextual Web search engine" by S. Brin and L. Page.  
-
-* Lecture 3 (1/23/2016): Crawls and feeds [John]
-  * Reading Assignment: "Crawling the Hidden Web" by S. Raghavan and H. Garcia-Molina.
-
-* Lecture 4 (1/30/2016): Data extraction and text processing [John]
-  * Reading Assignment: Clough, P. Extracting metadata for spatially-aware information retrieval on the internet. Proceedings of the Workshop on Geographic Information Retrieval, pp. 25-30, 2005.
-
+* Lecture 2 (1/16/2016): [Architecture of a search engine by building a simple search engine in practice](notes/week2.md) [John]
+* Lecture 3 (1/23/2016): [Crawls and feeds](notes/week3.md) [John]
+* Lecture 4 (1/30/2016): [Data extraction and text processing](notes/week4.md) [John]
 * Lecture 5 (2/6/2016): Classification, Clustering and AI in Information Retrieval [Eric]
-  * Reading Assignment: TBD
-
 * Lecture 6 (2/13/2016): Ranking and Indexing [John]
-  * Reading Assignment: TBD
-
 * Lecture 7 (2/20/2016): Query Interfaces and Retrieval Models [John]
-  * Reading Assignment: "Hive: a warehousing solution over a map-reduce framework" by A. Thusoo and "Building a distributed full-text index for the web" by S. Melink, S. Raghavan, B.Yang, and H. Garcia-Molina.
-
 * Lecture 8 (2/27/2016): Building a complete search engine using open source software [John]
-  * Reading Assignment: TBD
-
 * Lecture 9 (3/5/2016): Elastic Search Technology [Eric]
-  * Reading Assignment: TBD
-
 * Lecture 10 (3/12/2016): Project Demonstration [Eric and John]
-  * Reading Assignment: None
