@@ -1,4 +1,4 @@
-# Week 2: Crawls and feeds
+# Week 2: Architecture of a search engine by building a simple search engine in practice
 
 ## Objectives
 
