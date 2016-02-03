@@ -1,0 +1,12 @@
+big-table: {
+  [ 
+    { 
+      url: "www.example.com",
+      hash: "13266E90-73B1-4D7A-998F-07EDFA727CD9",
+      cols: [
+        "content:foo bar www.google.com",
+        "anchor:wwww.google.com" 
+      ],
+    },
+  ]
+}
