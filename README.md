@@ -29,3 +29,9 @@ Finally, please register your team before the end of Week 2 [here](http://goo.gl
 * Due to the WEP exam for a few students, our quiz this week will be at the end of class (this week only).
 
 * The [ungraded assignment](notes/homework-ungraded.md) is up.  Enjoy!
+
+### 2/1/2016
+
+* [Homework 1](notes/homework1.md) and [Homework 2](notes/homework2.md) are up.  They are due in class on 2/13/2016.  The assignments can be done in team.  Please note that Eric and I will ask you individually quetions on the assignment so please be prepared to answer questions about the homework.
+
+

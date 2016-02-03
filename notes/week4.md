@@ -1,9 +1,5 @@
 # Week 4: Data extraction and text processing
 
-## Objectives
-
-## Metrics/Desired Outcomes
-
 ## Reading Assignment
 
 * Clough, P. Extracting metadata for spatially-aware information retrieval on the internet. Proceedings of the Workshop on Geographic Information Retrieval, pp. 25-30, 2005.
