@@ -3,7 +3,7 @@
 ## Objectives 
 
 * Develop a crawler application
-* Consider the issues and tradeoffs with the various crawler design
+* Consider the issues and tradeoffs with the various crawler designs
 
 ## Writing your Crawler
 
