@@ -21,6 +21,17 @@ test {
 
 defaultTasks 'clean', 'hello'
 
+task helloJar(type: Jar) {
+    manifest {
+        attributes 'Implementation-Title': 'Hello Jar Example',
+                'Implementation-Version': version,
+                'Main-Class': 'edu.csula.cs454.example.BasicCrawler'
+    }
+    baseName = 'hello'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
 task hello(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
 
