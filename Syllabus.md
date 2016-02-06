@@ -60,7 +60,7 @@ Cheating on assignments and exams will not be tolerated. All parties involved wi
 * Lecture 2 (1/16/2016): [Architecture of a search engine by building a simple search engine in practice](notes/week2.md) [John]
 * Lecture 3 (1/23/2016): [Crawls and feeds](notes/week3.md) [John]
 * Lecture 4 (1/30/2016): [Data extraction and text processing](notes/week4.md) [John]
-* Lecture 5 (2/6/2016): Classification, Clustering and AI in Information Retrieval [Eric]
+* Lecture 5 (2/6/2016): [~~Classification, Clustering and AI in Information Retrieval~~ Retrieval Model](notes/week5.md) [Eric]
 * Lecture 6 (2/13/2016): Ranking and Indexing [John]
 * Lecture 7 (2/20/2016): Query Interfaces and Retrieval Models [John]
 * Lecture 8 (2/27/2016): Building a complete search engine using open source software [John]
