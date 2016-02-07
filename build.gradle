@@ -25,7 +25,7 @@ task helloJar(type: Jar) {
     manifest {
         attributes 'Implementation-Title': 'Hello Jar Example',
                 'Implementation-Version': version,
-                'Main-Class': 'edu.csula.cs454.example.BasicCrawler'
+                'Main-Class': 'edu.csula.cs454.example.HelloWorld'
     }
     baseName = 'hello'
     from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
