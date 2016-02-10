@@ -1,7 +1,9 @@
 # Grading Guideline
 
-Often students ask `how will we be assessed on a homework assignment?`  Believe it or not, this is an excellent question.  This document provides a grading guideline and philosophy.
-What you will find is that the grading process is very fair and very transparent.  By laying out our expectations upfront, students have the benefit of learning and receving the most accurate feedback on their work.  The goal of grading is not to penalize students, instead, it is to accurately assess performance.
+Often students ask 
+> How will we be assessed on a homework assignment?
+
+Believe it or not, this is an excellent question.  This document provides a grading guideline and philosophy.  What you will find is that the grading process is very fair and very transparent.  By laying out our expectations upfront, students have the benefit of learning and receving the most accurate feedback on their work.  The goal of grading is not to penalize students, instead, it is to accurately assess performance.
 
 ## The Grading Rubric
 
@@ -18,7 +20,13 @@ We will examine each item in the rubric and assess as followed:
 
 ## Code Contribution 
 
-We often hear `but we type together`.  To this we respond `that is wonderful`. For this class, we expect for you to collaborate on the design and architecture; however, we also expect for you write and contribute code individually.
+We often hear 
+> But we type together.
+
+To this we respond 
+> That is wonderful to hear.
+
+For this class, we expect for you to collaborate on the design and architecture; however, we also expect for you write and contribute code individually.
 
 For collaborative assignments, students are expected to use a code-sharing tool such as [Github](http://github.com).  While it is debatable that the number of lines of code contributed by individual members can serve as an accurate metric of efforts, we feel that it can serve as an starting point.  In our view, the number of code commits, frequency of code commits, timeline of code commits, and comments associated with code commits, serve as a much better tool for measuring contribution.  
 
