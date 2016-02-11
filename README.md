@@ -34,4 +34,6 @@ Finally, please register your team before the end of Week 2 [here](http://goo.gl
 
 * [Homework 1](notes/homework1.md) and [Homework 2](notes/homework2.md) are up.  They are due in class on 2/13/2016.  The assignments can be done in team.  Please note that Eric and I will ask you individually quetions on the assignment so please be prepared to answer questions about the homework.
 
+### 2/10/2016
 
+* [Grading Guideline](notes/grading.md) has been posted.  Please take a look at it and post questions to gitter, if you have any.
