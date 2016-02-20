@@ -40,7 +40,7 @@ Finally, please register your team before the end of Week 2 [here](http://goo.gl
 
 ### 2/19/2016
 
-* We will have a quiz tomorrow 2/20/2016 and it will only cover ranking algorithm from the last lecture.
+* We will have a quiz ~~tomorrow 2/20/2016~~ next Saturday 2/27/2016 and it will only cover ranking algorithm *and* indexing.
 
 * The next homework assignment will be on ranking and indexing -- both assignments will be due on 3/5/2016 in class demonstration.
 
