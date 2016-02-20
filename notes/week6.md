@@ -1,10 +1,6 @@
 # Week 6: Page Ranking
 
-## Objectives
-
-## Metrics/Desired Outcomes
-
-## Recommended homework libraries
+This week's lecture is focus on the ranking algorithm used in earlier google search engine design, which is primarily link analysis.
 
 ## Reading Assignment
 
