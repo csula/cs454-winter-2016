@@ -45,3 +45,5 @@ Finally, please register your team before the end of Week 2 [here](http://goo.gl
 * The next homework assignment will be on ranking and indexing -- both assignments will be due on 3/5/2016 in class demonstration.
 
 * Please note the updated [Syllabus](Syllabus.md).
+
+* [Homework 3](notes/homework3.md) has been posted.
