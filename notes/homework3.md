@@ -17,6 +17,8 @@ To do the indexing, your software will need to "crawl" the web server, pull the 
 
 > Short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. It is often used as a weighting factor in information retrieval and text mining.
 
+Source: wikipedia.
+
 ## Writing your ranking program
 
 With a separate program, your task is to perform link analysis on the document collection that you have gathered.  The purpose of link analysis is to score the "value" of a document bases on its relationship to other documents.  For the purpose of the assignment you can restrict documents to only that are within the same server.
@@ -25,7 +27,7 @@ With a separate program, your task is to perform link analysis on the document c
 
 * Demonstration of the index design and implementation
   * What is your indexing strategy?
-	* What is your frequency/statistical analysis?
+  * What is your frequency/statistical analysis?
 * Discussion of your ranking algorithm
   * Intrinsic ranking
-	* Link analysis algorithm
+  * Link analysis algorithm
