@@ -19,9 +19,19 @@ To do the indexing, your software will need to "crawl" the web server, pull the 
 
 Source: wikipedia.
 
+The goal of the indexer is that when presented with a term, the software can give back a list of documents containing the term of interest.  The _order_ of the results is defined by the score (see below).
+
 ## Writing your ranking program
 
-With a separate program, your task is to perform link analysis on the document collection that you have gathered.  The purpose of link analysis is to score the "value" of a document bases on its relationship to other documents.  For the purpose of the assignment you can restrict documents to only that are within the same server.
+Note that there are two aspects to ranking that you must contend:
+
+* **Intrinsic ranking**: most of these can be done at the time of indexing
+
+* **Relational ranking**: these can only be done when your system has finished crawling and indexing
+
+Here we focus on the second aspect of ranking.  With a separate program, your task is to perform link analysis on the document collection that you have gathered.  The purpose of link analysis is to score the "value" of a document bases on its relationship to other documents.  For the purpose of the assignment you can restrict documents to only that are within the same server.
+
+The goal of the ranking program is to comb through the documents that you have crawled and build a score on each of these documents based on the [page rank algorithm](week6.pdf).
 
 ## Grading Rubric
 
@@ -35,3 +45,7 @@ With a separate program, your task is to perform link analysis on the document c
 ### Collaboration Grade
 
 Your team **must** use github to coordinate the code sharing and collaboration.  The grading rubric for collaboration is effort is discussed in [grading.md](grading.mg).
+
+### Bonus assignment
+
+We will give bonus grade to the team that implement a MR algorithm for this homework assignment.  You are free to use your own high performance computer or utilize the AWS.  Before you do the bonus assignment please coordinate with the instructors.
