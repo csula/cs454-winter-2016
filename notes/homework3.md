@@ -31,3 +31,7 @@ With a separate program, your task is to perform link analysis on the document c
 * Discussion of your ranking algorithm
   * Intrinsic ranking
   * Link analysis algorithm
+
+### Collaboration Grade
+
+Your team **must** use github to coordinate the code sharing and collaboration.  The grading rubric for collaboration is effort is discussed in [grading.md](grading.mg).
