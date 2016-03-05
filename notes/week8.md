@@ -166,6 +166,19 @@ While many searches will just work out of the box, to use Elasticsearch to its f
 
 https://www.elastic.co/guide/en/elasticsearch/guide/current/inverted-index.html
 
+### Programming Quiz
+
+#### Instructions
+
+1. Clone this repository
+2. Run `gradle homedepotSearch parse product_descriptions.csv attributes.csv` to parse data
+3. Run `gradle homedepotSearch search "The Rubbermaid 1-Step"`
+
+#### Metrics
+
+1. Able to pass parse data unit test by `gradle test` - 3pt
+2. Able to do full-text search in quick real time - 7pt
+
 ## Further Reading
 
 * [Elastic Search Distributed Explained](https://www.elastic.co/guide/en/elasticsearch/guide/current/distributed-cluster.html)
