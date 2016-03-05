@@ -17,12 +17,16 @@
 
 ### Introduction
 
+* Open source search engine
 * Built on top of Apache Lucene
 * JSON based
 * Scheme free
 * Distributed
 * Multi-tenancy
 * API Centric & REST
+
+> You **cannot** use Elastic Search in your homework 4.  
+> However, this is very useful knowledge for you to have!
 
 ### What can it do?
 
@@ -42,6 +46,7 @@
 ├── bin                    # executable scripts
 │   ├── elasticsearch
 │   ├── plugin
+│   └── ...
 ├── config                 # node configuration
 │   ├── elasticsearch.yml
 │   └── logging.yml
@@ -73,7 +78,7 @@ $ ./bin/elasticsearch
 
 * confirm working by opening in browser under http://localhost:9200
 
-```
+```sh
 # eric at Erics-MacBook-Pro.local in ~/Downloads/elasticsearch-2.2.0 [22:38:19]
 $ curl http://localhost:9200/\?pretty
 {
@@ -90,7 +95,7 @@ $ curl http://localhost:9200/\?pretty
 }
 ```
 
-### (Optional) Debugging in Sense
+### Debugging in Sense
 
 For people who doesn't have `curl` installed locally. *Ahem* windows users, I suggested you to install sense so that you can execute curl like command without worry about curl command.
 
@@ -104,6 +109,17 @@ For people who doesn't have `curl` installed locally. *Ahem* windows users, I su
 * REST
 
 > We will focus on the REST to explain Elastic Search briefly first and then implement in Java Client later
+
+### Quick Review on RESTful
+
+* CRUD
+
+```
+* POST   => Create
+* GET    => Read
+* PUT    => Update
+* DELETE => DELETE
+```
 
 ### ES Terminologies from RDBS point of view
 
@@ -129,6 +145,26 @@ http://localhost:5601/app/sense?load_from=http://www.elastic.co/guide/en/elastic
 #### More complex search
 
 http://localhost:5601/app/sense?load_from=http://www.elastic.co/guide/en/elasticsearch/guide/current/snippets/010_Intro/30_Query_DSL.json
+
+### Searching
+
+While many searches will just work out of the box, to use Elasticsearch to its full potential, you need to understand three subjects:
+
+* Mapping
+
+    How the data in each field is interpreted
+
+* Analysis
+
+    How full text is processed to make it searchable
+
+* Query DSL
+
+    The flexible, powerful query language used by Elasticsearch
+
+### Inverted index
+
+https://www.elastic.co/guide/en/elasticsearch/guide/current/inverted-index.html
 
 ## Further Reading
 
