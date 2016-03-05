@@ -27,8 +27,8 @@ public class HomeDepotSearch {
 
     // default controller for searching on actual use case
     public HomeDepotSearch() {
-        this.node = Optional.of(nodeBuilder().node())
-            .put("path.home", "Your elastic search path")).node());
+        this.node = Optional.of(nodeBuilder().settings(Settings.builder()
+            .put("path.home", "Your elastic search absolute path")).node());
         this.client = Optional.of(this.node.get().client());
         this.data = Maps.newHashMap();
         this.forTesting = false;
