@@ -4,6 +4,7 @@ import com.google.common.collect.Maps;
 import edu.csula.cs454.es.models.Product;
 import org.elasticsearch.client.Client;
 import org.elasticsearch.node.Node;
+import org.elasticsearch.common.settings.Settings;
 
 import java.io.File;
 import java.util.List;
