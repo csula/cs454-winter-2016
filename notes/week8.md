@@ -15,6 +15,10 @@
 
 ---
 
+![log joke](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Log-nonstandard-650-fianlenglish-1.jpg)
+
+Credit to [Commitstrip](http://www.commitstrip.com/en/2016/02/25/you-cant-write-code-without-knowing-how-to-log/)
+
 ### Introduction
 
 * Open source search engine
@@ -171,8 +175,8 @@ https://www.elastic.co/guide/en/elasticsearch/guide/current/inverted-index.html
 #### Instructions
 
 1. Clone this repository
-2. Run `gradle homedepotSearch parse product_descriptions.csv attributes.csv` to parse data
-3. Run `gradle homedepotSearch search "The Rubbermaid 1-Step"`
+2. Run `gradle homedepotSearch -Parguments="parse product_descriptions.csv attributes.csv"` to parse data
+3. Run `gradle homedepotSearch -Parguments="search \"The Rubbermaid 1-Step\""`
 
 #### Metrics
 
