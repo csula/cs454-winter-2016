@@ -48,3 +48,20 @@ task readFile(type: JavaExec) {
 
     main = 'edu.csula.cs454.example.FileRead'
 }
+
+task Mungee(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+
+    main = 'edu.csula.cs454.mungee.App'
+}
+
+task mungeeJar(type: Jar) {
+    manifest {
+        attributes 'Implementation-Title': 'Mungee Application',
+                'Implementation-Version': version,
+                'Main-Class': 'edu.csula.cs454.mungee.App'
+    }
+    baseName = 'mungee'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
