@@ -10,6 +10,23 @@ This is a Gradle Java project. You may start this project by `gradle`
 
 ## Announcements
 
+#### 3/7/2016
+
+* A number of students are inquiring about due dates and what not on gitter.  So here is a run down of the schedule so that we're all on the same page:
+
+  * Homework 3 (which was due last week has been given an extension) it's now due 3/12/2016 in class demo 
+
+  * Homework 4 is due 3/12/2016 -- again in class demo.
+
+  * Both homeworks will require showing collaboration with git log -- this is not optional
+
+* Project is as we have discussed in class numerous times.  To summarize:
+
+  * Your team will demonstrate a complete flow from begin to end
+  * Your team will demonstrate 1 or more extra features or things that your team has done that is beyond the (1) crawl, (2) extract, (3), and (4) search interface
+  * The project is an in class demo on 3/19/2016 -- this will **not** be a group demo; like the other homework assignments, you will just demonstrate to the instructors.
+
+
 #### 2/20/2016
 * [Homework 4](notes/homework4.md) has been posted.  This assignment can be presented with the project on the day of the scheduled final.
 * Next week's quiz will cover today and last week's lecture.  Please hit me up on gitter for the password to [week7.pdf](week7.pdf) notes.
