@@ -65,4 +65,4 @@ Cheating on assignments and exams will not be tolerated. All parties involved wi
 * Lecture 7 (2/20/2016): Indexing [John]
 * Lecture 8 (2/27/2016): Building a complete search engine using open source software [John]
 * Lecture 9 (3/5/2016): Elastic Search Technology [Eric]
-* Lecture 10 (3/12/2016): Project Demonstration [Eric and John]
+* Lecture 10 (3/12/2016): Homework 3 and Homework 4 Demonstration [Eric and John]
