@@ -19,6 +19,11 @@ This is a Gradle Java project. You may start this project by `gradle`
   * Homework 4 is due 3/12/2016 -- again in class demo.
 
   * Both homeworks will require showing collaboration with git log -- this is not optional
+ 
+  * Programming quiz will be due at last same week as homework 3 and 4 (3/12/2016)  
+  
+     > It will be a *1 minute short demo* containing you running two scripts I provided in the [week9.md](notes/week9.md)
+     > While the prorgram is running, I will be asking you about 2 questions. So be ready to answer them.
 
 * Project is as we have discussed in class numerous times.  To summarize:
 
