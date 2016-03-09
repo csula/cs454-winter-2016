@@ -10,6 +10,10 @@ This is a Gradle Java project. You may start this project by `gradle`
 
 ## Announcements
 
+#### 3/8/2016
+
+* [Project](notes/project.md) has been posted.
+
 #### 3/7/2016
 
 * A number of students are inquiring about due dates and what not on gitter.  So here is a run down of the schedule so that we're all on the same page:
