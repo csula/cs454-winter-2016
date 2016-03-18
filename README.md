@@ -10,6 +10,11 @@ This is a Gradle Java project. You may start this project by `gradle`
 
 ## Announcements
 
+#### 3/17/2016
+
+* [Project](project/README.md) has been updated.  Please take a look for guidance.
+
+
 #### 3/8/2016
 
 * [Project](notes/project.md) has been posted.
