@@ -24,7 +24,7 @@
 
 Your frontpage for the websearch engine must show the following:
 
-* Top 5 pages and links to each of the 5 pages
+* Top 5 pages (highest link analysis rank) and links to each of the 5 pages
 
 You are welcome to display additional statistic information about your indexed and collected data.
 
