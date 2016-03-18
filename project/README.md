@@ -45,6 +45,7 @@ Where `en` is the wiki-small data directory, `out` is the output directory and `
 
 Note that your crawler should start crawling at `out/index.html`.  This page has link to all the documents.
 
+**or** if you are not too interested in exploring `slurpee` you can start crawling here: [http://ocean.pcwerk.com/data/index.html](http://ocean.pcwerk.com/data/index.html)
 
 ## Grading Rubric
 
