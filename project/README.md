@@ -38,10 +38,10 @@ You are welcome to display additional statistical information about your data.
 You should download [slurpee.jar](slurpee.jar) and run it as followed:
 
 ```
-java -jar slurpee.jar en out http://localhost/
+java -jar slurpee.jar "en" "out" "http://localhost/"
 ```
 
-Where `en` is the wiki-small data directory, `out` is the output directory and `http://localhost` is the relative base URL.  This will help your web interface to click through to get the correct documents.  For example during the search if you have your base-url configured correctly, we can click and the document viewing should be correct.
+Where `en` is the wiki-small data directory, `out` is the output directory and `http://localhost` is the relative base URL.  You can adjust the base URL so that it works with your web servlet.  For example if your search URL is `http://localhost:8000/search` and your `out` data is served out of `http://localhost:8000/data` then you should use the latter as your base URL.  This will help your web interface to click through to get the correct documents.  For example during the search if you have your base-url configured correctly, we can click and the document viewing should be correct.
 
 Note that your crawler should start crawling at `out/index.html`.  This page has link to all the documents.
 
