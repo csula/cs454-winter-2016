@@ -16,7 +16,7 @@
 * Ranking with TF-IDF: Your application must integrate this score into the ranking algorithm
 * Ranking with Link Analysis: Your application must integrate this score into ranking algorithm
 * Your application must clearly show three scores: TF-IDF, link analysis, and combined scores
-* Your application should provide a way easily vary  between the two ranking methodology
+* Your application should provide a way easily vary  between the two ranking methods
 
 ## Part 3 
 
