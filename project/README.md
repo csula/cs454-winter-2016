@@ -20,7 +20,9 @@
 
 ## Part 3 
 
-* You should demonstrate a web interface that allows users to search for a term in the documents that you've downloaded. Your frontpage for the websearch engine must show the following:
+* You should demonstrate a web interface that allows users to search for a term in the documents that you've downloaded. 
+
+Your frontpage for the websearch engine must show the following:
 
 * Top 5 pages and links to each of the 5 pages
 

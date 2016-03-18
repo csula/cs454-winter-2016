@@ -17,7 +17,7 @@ This is a Gradle Java project. You may start this project by `gradle`
 
 #### 3/8/2016
 
-* [Project](notes/project.md) has been posted.
+* [Project](project/README.md) has been posted.
 
 #### 3/7/2016
 
